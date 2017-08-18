@@ -6,7 +6,7 @@ function getRandom(array) {
 }
 
 function donger(category, index) {
-  const key = category || getRandom(categories);
+  const key = ~categories.indexOf(category) ? category : getRandom(categories);
   const list = dongers[key];
   return isNaN(index) ? getRandom(list) : list[index];
 }

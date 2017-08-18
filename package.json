@@ -1,0 +1,23 @@
+{
+  "name": "donger",
+  "version": "1.0.0",
+  "description": "dongers from dongerlist.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"乁| ･ 〰 ･ |ㄏ\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cazala/donger.git"
+  },
+  "keywords": [
+    "donger",
+    "dongerlist"
+  ],
+  "author": "Juan Cazala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cazala/donger/issues"
+  },
+  "homepage": "https://github.com/cazala/donger#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "donger",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "dongers from dongerlist.com",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/cazala/donger/issues"
   },
-  "homepage": "https://github.com/cazala/donger#readme"
+  "homepage": "https://github.com/cazala/donger#readme",
+  "bin": {
+    "donger": "./bin/donger"
+  }
 }

@@ -3,7 +3,7 @@ Donger ヽ༼ຈل͜ຈ༽ﾉ
 
 Generates dongers from [dongerlist.com](http://dongerlist.com).
 
-# Usage
+## Usage
 
 ```js
 var donger = require('donger');
@@ -23,5 +23,11 @@ donger.categories // [ 'ameno', 'angry', 'animal', 'brick', 'cool', ...]
 // 5. Get everything
 donger.dongers // { ameno: [...], angry: [...], animal: [...], ... }
 ```
+
+## CLI
+
+You can also use the CLI `donger [category]`.
+
+---
 
 **I don't have anything to do with `dongerlist.com`. All the dongers are theirs, not mine.**

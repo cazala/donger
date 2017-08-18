@@ -26,7 +26,12 @@ donger.dongers // { ameno: [...], angry: [...], animal: [...], ... }
 
 ## CLI
 
-You can also use the CLI `donger [category]`.
+You can also use the CLI
+
+- Use `donger` to get a random donger
+- Use `donger <category>` to get a random donger by category
+- Use `donger -c` or `donger --categories` to get available categories
+- Use `donger -h` or `donger --help` to show this dialog
 
 ---
 

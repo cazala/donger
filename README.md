@@ -35,4 +35,4 @@ You can also use the CLI
 
 ---
 
-**I don't have anything to do with `dongerlist.com`. All the dongers are theirs, not mine.**
+**I have nothing to do with `dongerlist.com`. All the dongers are theirs, not mine.**
